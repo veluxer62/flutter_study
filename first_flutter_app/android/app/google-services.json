@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389345022584",
+    "project_id": "gogoleexample",
+    "storage_bucket": "gogoleexample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389345022584:android:2d3a4a739e7fa4f8a6138d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4h7OCup3Hc1-N5qbw04FMh8NcmUzE_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
